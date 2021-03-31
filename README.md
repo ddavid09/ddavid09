@@ -1,4 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+I am Dominik, software Engineer from Poland, military student at Military University of Technology. I am currently in master's studies in Information Systems. I like learning new things, work with more experienced than me and automate repetitive tasks 🔄
+
+🔎 I’m looking for part-time remote job as Junior Developer.
+
+## Experience 🔨
+* Wyjście Awaryjne Escape Room Poland (puzzle builder, programmer - arduino)
+* Instytut Genetyki Sądowej Sp. z o. o. (IT support, programmer - Office VBA, C#) 
+
+## Education 👨‍🎓
+* Information Systems Engineer, Military University of Technology, 2020.
+  * 📖 read more about my thesis "The system for collecting and analyzing sensory data from IoT devices using cloud computing" ➡ [here](https://github.com/ddavid09/system-gromadzenia-analizy-danych-iot-chmura)
+
+## Achievements 🏆
+* Winner of 5. Best Hacking League Hackathon in software category
+  * 📖 read about: [Article](https://wcy.wat.edu.pl/pl/news/studenci-z-wcy-zwyciezcami-hackathonu-best-hacking-league-w-kategorii-software ) 
+  * 👀 see project repo: [GeoTrashing](https://github.com/ddavid09/Hackathon-5.BHL-geotrashing) 
+  * 🎥 see video presentation: [YouTube](https://youtu.be/j6Ufw7A8OUE)
+
+## Courses 🏫
+* Letnia Szkoła Programowania Ecom 2019 (Toruń) 
+
+## Favorite technology 🍬
+C#, .NET Core
 
 <!--
 **ddavid09/ddavid09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
