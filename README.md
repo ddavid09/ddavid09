@@ -1,14 +1,14 @@
 # Hi there 👋
-I am Dominik, software Engineer from Poland, military student at Military University of Technology. I am currently in master's studies in Information Systems. I like learning new things, work with more experienced than me and automate repetitive tasks 🔄
+I am Dominik, military student at Military University of Technology, Warsaw, Poland. I am currently in master's studies in Computer Science. I like learning new things, work with more experienced than me and automate repetitive tasks 🔄
 
-🔎 I’m looking for part-time remote job as Junior Developer.
+🔎 I’m looking for remote part-time job as Junior Developer.
 
 ## Experience 🔨
 * Wyjście Awaryjne Escape Room Poland (puzzle builder, programmer - arduino)
 * Instytut Genetyki Sądowej Sp. z o. o. (IT support, programmer - Office VBA, C#) 
 
 ## Education 👨‍🎓
-* Information Systems Engineer, Military University of Technology, 2020.
+* Bachelor of Engineering in Computer Science, Military University of Technology, 2020.
   * 📖 read more about my thesis "The system for collecting and analyzing sensory data from IoT devices using cloud computing" ➡ [here](https://github.com/ddavid09/system-gromadzenia-analizy-danych-iot-chmura)
 
 ## Achievements 🏆
